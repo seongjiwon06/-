@@ -1,0 +1,10 @@
+7287 µî·Ï
+
+#include<stdio.h>
+int main()
+{
+	printf("3\nseongjiwon06");
+	
+	
+	
+}
